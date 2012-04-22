@@ -1,0 +1,13 @@
+.blue{
+color:#0000FF;
+}
+
+.black{
+color:#000000;
+background-color:#FFFFFF;
+}
+
+A:link {color: blue;}
+A:visited {color: blue;}
+A:active {color: blue;}
+A:hover {color:0099FF;}
