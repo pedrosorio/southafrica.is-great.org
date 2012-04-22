@@ -1,0 +1,29 @@
+Structure:
+
+index.php - login/register page
+
+mundial.php - main page handles login, shows current games with live score and updates database when they finish
+
+apostas.php - page that shows the list of bets made by user
+
+campeao.php - special page for the bets on the world champion
+
+config.php - includes database info
+
+grupos.php - page that shows the classification in the 8 world cup groups
+
+insere_jogo.html/php - insert games into the database
+
+jogo.php - allow betting / show livescore for a specific game
+
+logout.php - self explanatory
+
+registar.php - registration script
+
+regulamento.html - regulations for participation
+
+sorttable.js - javascript that allows sorting html tables by column
+
+table.php - shows table with statistics about users
+
+update.php / updatetable.php - update user scores and bet number when something goes wrong
